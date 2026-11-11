@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# TradeBridge - AI-Driven Cross-Border Export Intelligence Platform
+# TradeBridge- AI-Powered Export Decision Platform
 
 An integrated platform for Indian SMEs that combines HS code classification, regulatory compliance intelligence, and ML-based export destination ranking into a single decision-support system.
 
