@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TradeBridge - AI-Driven Cross-Border Export Intelligence Platform
 
 An integrated platform for Indian SMEs that combines HS code classification, regulatory compliance intelligence, and ML-based export destination ranking into a single decision-support system.
@@ -149,3 +150,6 @@ This project is developed as an academic research project at B V Raju Institute 
 Murala Purnachandra Rao, Nethi Harini, Raya Shashidar Reddy, Patha Suhas  
 Department of Computer Science and Engineering (Data Science)  
 B V Raju Institute of Technology, Narsapur, Medak, Telangana, India
+=======
+# tradebridge
+>>>>>>> 701f6391eb1e1809b26819297b02af6b7c9f9751
